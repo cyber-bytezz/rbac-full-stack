@@ -41,7 +41,6 @@ The system's architecture is modular, designed to enhance security through separ
 
 ### Frontend
 - **React**: Utilizes React's component-based architecture for efficient UI construction and state management.
-- **Redux**: Manages application state globally, enhancing the consistency and predictability of the UI's behavior.
 - **Styled-Components**: Facilitates scoped CSS management, promoting styling consistency and reducing style conflicts.
 
 ### Backend
